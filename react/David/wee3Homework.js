@@ -1,0 +1,2 @@
+// David - How to update the state of a class component
+    // answer: To change a value in the state object, use the this.setState() method. When a value in the state object changes, the component will re-render, meaning that the output will change according to the new value(s).
