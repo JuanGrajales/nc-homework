@@ -5,6 +5,7 @@
 // Rodrick - How to create a state for a class component
 
 // David - How to update the state of a class component
+    // answer: you use the
 
 // Chellie - How to use a component that is already created
 
