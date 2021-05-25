@@ -18,6 +18,18 @@
 
 // Brandon - How to export a function/variable/component/etc so another file can use it
 
+//For example 
+// inside the  hello.js file
+export class Hello extends React.Component { ... }
+
+//so that the greeting.js file can use
+import { Hello } from './hello';
+
+export class Greeting extends React.Component {
+  render() {
+    return <Hello />;
+  }
+}
 // Mario - Difference between export default and just export
 
 // Caroline - How to import a function/variable/component/etc from another file
