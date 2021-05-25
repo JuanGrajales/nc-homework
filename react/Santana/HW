@@ -1,0 +1,8 @@
+// Santana - How to install and use a npm package to your react project
+//1. Open up a text editor (VS Code)
+//2. Install Node JS
+        https://nodejs.org/en/download/
+//3. Install the create-react-app package using the command prompt or terminal 
+        npx create-react-app my-app
+        cd my-app
+        npm start
