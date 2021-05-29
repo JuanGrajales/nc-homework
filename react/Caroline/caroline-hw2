@@ -1,0 +1,7 @@
+ How to import a function/variable/component/etc from another file.
+ Step 1: Find function/variable/component/etc name that you want to import into your current file and its file location.
+ Step 2: Use the following syntax to create an import on line 1 and remember to make a new line for each import created.
+            Syntax:
+                import functionname from './location';
+            Group imports at the top of your file with exports grouped and seperated by a empty line below.
+ 
